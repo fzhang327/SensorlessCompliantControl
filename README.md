@@ -32,3 +32,18 @@ The underlying mathematics have been validated, and we are currently cleaning up
 
 ---
 *For researchers: A paper detailing the theoretical proofs (Lyapunov stability, passivity analysis of force-scaling) is currently in preparation.*
+## 🙏 Acknowledgements & Citation
+
+This project is built as a middleware integration for the amazing [LeRobot](https://github.com/huggingface/lerobot) framework by Hugging Face. We deeply appreciate their ongoing efforts to democratize end-to-end robot learning.
+
+If you find our admittance controller useful in your research, please stay tuned for our upcoming paper. In the meantime, if you use this code within the LeRobot ecosystem, please make sure to cite their foundational work:
+
+**ICLR 2026 Paper:**
+```bibtex
+@inproceedings{cadenelerobot,
+  title={LeRobot: An Open-Source Library for End-to-End Robot Learning},
+  author={Cadene, Remi and Alibert, Simon and Capuano, Francesco and Aractingi, Michel and Zouitine, Adil and Kooijmans, Pepijn and Choghari, Jade and Russi, Martino and Pascal, Caroline and Palma, Steven and Shukor, Mustafa and Moss, Jess and Soare, Alexander and Aubakirova, Dana and Lhoest, Quentin and Gallou\'edec, Quentin and Wolf, Thomas},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={[https://arxiv.org/abs/2602.22818](https://arxiv.org/abs/2602.22818)}
+}
