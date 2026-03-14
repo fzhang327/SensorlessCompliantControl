@@ -12,7 +12,7 @@ This project solves the fundamental "Compliance Paradox" in Embodied AI: achievi
 
 | Baseline: Pure Position Servo / Low Stiffness | Ours: Force-Scaled Admittance + 2nd-Order LESO |
 | :---: | :---: |
-| <img src="docs/assets/baseline_rigid.gif" width="400"/> | <img src="docs/assets/ours_compliant.gif" width="400"/> |
+| <img src="media/readme/baseline_rigid.gif" width="400"/> | <img src="media/readme/ours_compliant.gif" width="400"/> |
 | *Rigid tracking fails during contact, or low stiffness causes severe trajectory lag and jitter.* | *High-bandwidth tracking in free space + butter-smooth yielding upon physical contact.* |
 
 *(Replace the paths above with your actual GIF links once recorded)*
