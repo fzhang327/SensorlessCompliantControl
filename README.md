@@ -12,7 +12,7 @@ This project solves the fundamental "Compliance Paradox" in Embodied AI: achievi
 
 | Baseline: Pure Position Servo | Ours: Force-Scaled Admittance + 2nd-Order LESO |
 | :---: | :---: |
-| <img src="media/readme/baseline_rigid.gif" width="400"/> | <img src="media/readme/ours_compliant.gif" width="400"/> |
+| <img src="media/readme/baseline_rigid.gif" width="300"/> | <img src="media/readme/ours_compliant.gif" width="300"/> |
 | *Hard contact* | *High-bandwidth tracking in free space + butter-smooth yielding upon physical contact.* |
 
 
