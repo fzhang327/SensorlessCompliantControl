@@ -13,7 +13,7 @@ This project solves the fundamental "Compliance Paradox" in Embodied AI: achievi
 ### 1. Joint Space Control
 | Baseline: Pure Position Servo | Ours: Force-Scaled Admittance + 2nd-Order LESO |
 | :---: | :---: |
-| <img src="media/readme/joint_baseline_rigid.gif" width="280"/> | <img src="media/readme/joint_ours_compliant.gif" width="280"/> |
+| <img src="media/readme/baseline_rigid.gif" width="280"/> | <img src="media/readme/ours_compliant.gif" width="280"/> |
 | *Hard contact (Rigid Joint Tracking)* | *High-bandwidth tracking + butter-smooth yielding upon contact.* |
 
 ### 2. Task Space (Cartesian) Control
