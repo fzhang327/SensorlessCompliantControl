@@ -23,7 +23,7 @@ This project solves the fundamental "Compliance Paradox" in Embodied AI: achievi
 | *Stiff end-effector interaction* | *Compliant 6D Cartesian tracking & safe environmental contact.* |
 
 ### 2. Wipe Board
-
+| VLA wipe board |
 | <img src="media/readme/wipe.gif" width="280"/>|
 
 
